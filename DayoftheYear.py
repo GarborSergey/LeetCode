@@ -1,4 +1,4 @@
-# Сколько дней прошло с начала года?
+# Сколько дней прошло с начала года? дано - "2020-03-12"
 class Solution:
     def dayOfYear(self, date: str) -> int:
         result = 0
