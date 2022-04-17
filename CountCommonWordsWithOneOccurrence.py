@@ -20,7 +20,7 @@ words2 = ["eeormvovhzslwsqgzthlgntgzc","zfwownznh","suxrkdbjdjjtbkjucsbyk","u","
           "snzpclbulddnmmjmpdurcybo","mowxgpmzojtmympmt","uvtnojjahrovzmlukf","sykhtgejlmbzshhneoyqr","ib","haqkkizidifykwijm","csjtexnr","yvgr",
           "vzcxbtlthrynnawxnkxdptp","yvxrmscsckv"]
 
-
+# Вернуть слова, которые повторяются один раз в 2х впсках одновременно
 class Solution:
     def countWords(self, words1, words2) -> int:
 
