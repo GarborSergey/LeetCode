@@ -12,3 +12,16 @@ class Solution:
 
         return result
 
+
+x = [1, 2, 4, 5, 5, 2, 2, 2]
+val = 5
+counter = 0
+for i in x:
+    if i == val:
+        counter += 1
+
+for i in range(counter):
+    x.remove(val)
+    
+print(x)
+print(counter)
