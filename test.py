@@ -1,2 +1,7 @@
-x = [[4,"c"],[5,"o"],[6,"d"],[7,"e"],[0,"l"],[2,"e"],[1,"e"],[3,"t"]]
-print(sorted(x))
+seats = [3,1,5]
+students = [2,7,4]
+
+
+seats.sort()
+
+print(seats)
