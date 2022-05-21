@@ -1,7 +1,4 @@
-seats = [3,1,5]
-students = [2,7,4]
+nums = [5,7,10,10,10,10]
 
+l = bisect_left
 
-seats.sort()
-
-print(seats)
