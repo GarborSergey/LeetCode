@@ -1,4 +1,2 @@
-nums = [5,7,10,10,10,10]
-
-l = bisect_left
-
+x = { 12: 12}
+print(12 in x)
